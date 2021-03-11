@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523537282 source:e:\unifei\3semestre\orientada a objeto\l5e03\date.cpp
+	<iostream>
+	<string>
+	"Date.h"
+
+1523537052 e:\unifei\3semestre\orientada a objeto\l5e03\date.h
+	<array>
+	<iostream>
+
+1523535622 source:e:\unifei\3semestre\orientada a objeto\l5e03\main.cpp
+	<iostream>
+	"Date.h"
+

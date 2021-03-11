@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523315996 source:e:\unifei\3semestre\orientada a objeto\l4e04\main.cpp
+	<iostream>
+	"vetor.h"
+
+1523315596 e:\unifei\3semestre\orientada a objeto\l4e04\vetor.h
+	<iostream>
+	<stdlib.h>
+
+1523315596 source:e:\unifei\3semestre\orientada a objeto\l4e04\vetor.cpp
+	"vetor.h"
+	<iostream>
+

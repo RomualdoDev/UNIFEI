@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1522444906 source:e:\unifei\3semestre\orientada a objeto\ex1\main.cpp
+	<iostream>
+	"complexo.h"
+	<cstdlib>
+
+1522444906 e:\unifei\3semestre\orientada a objeto\ex1\complexo.h
+
+1522444906 source:e:\unifei\3semestre\orientada a objeto\ex1\complexo.cpp
+	"complexo.h"
+	<iostream>
+	<cmath>
+
+1522444906 source:d:\unifei\3semestre\orientada a objeto\ex1\complexo.cpp
+	"complexo.h"
+	<iostream>
+	<cmath>
+
+1522444906 d:\unifei\3semestre\orientada a objeto\ex1\complexo.h
+
+1522534412 source:d:\unifei\3semestre\orientada a objeto\ex1\main.cpp
+	<iostream>
+	"complexo.h"
+	<cstdlib>
+

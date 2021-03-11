@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523532882 source:e:\unifei\3semestre\orientada a objeto\l5e02\ponto.cpp
+	"ponto.h"
+
+1523532882 e:\unifei\3semestre\orientada a objeto\l5e02\ponto.h
+	<iostream>
+	<string>
+
+1523532966 source:e:\unifei\3semestre\orientada a objeto\l5e02\main.cpp
+	<iostream>
+	"ponto.h"
+

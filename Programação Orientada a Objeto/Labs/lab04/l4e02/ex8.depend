@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523283666 source:e:\unifei\3semestre\orientada a objeto\ex8\main.cpp
+	<iostream>
+	"CFracao.h"
+
+1523283666 e:\unifei\3semestre\orientada a objeto\ex8\cfracao.h
+	<iostream>
+	<string.h>
+
+1523283666 source:e:\unifei\3semestre\orientada a objeto\ex8\cfracao.cpp
+	"CFracao.h"
+	<iostream>
+
+1523229874 source:d:\unifei\3semestre\orientada a objeto\ex8\main.cpp
+	<iostream>
+	"CFracao.h"
+
+1523234016 d:\unifei\3semestre\orientada a objeto\ex8\cfracao.h
+	<iostream>
+	<string.h>
+
+1523235276 source:d:\unifei\3semestre\orientada a objeto\ex8\cfracao.cpp
+	"CFracao.h"
+	<iostream>
+

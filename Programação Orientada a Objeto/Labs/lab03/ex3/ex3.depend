@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1522447476 source:e:\unifei\3semestre\orientada a objeto\ex3\main.cpp
+	<iostream>
+	"triangulo.h"
+
+1522446574 e:\unifei\3semestre\orientada a objeto\ex3\triangulo.h
+
+1522447476 source:d:\unifei\3semestre\orientada a objeto\ex3\main.cpp
+	<iostream>
+	"triangulo.h"
+
+1522541014 d:\unifei\3semestre\orientada a objeto\ex3\triangulo.h
+
+1522540968 source:d:\unifei\3semestre\orientada a objeto\ex3\triangulo.cpp
+	"triangulo.h"
+	<iostream>
+	<math.h>
+
+1522446888 source:e:\unifei\3semestre\orientada a objeto\ex3\triangulo.cpp
+	"triangulo.h"
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1520900660 source:e:\unifei\3semestre\orientada a objeto\lab02\retangulo.cpp
+	"retangulo.h"
+	<iostream>
+	<math.h>
+
+1520899788 e:\unifei\3semestre\orientada a objeto\lab02\retangulo.h
+
+1521306472 source:e:\unifei\3semestre\orientada a objeto\lab02\lab02.cpp
+	"poligono.h"
+	"retangulo.h"
+	<math.h>
+	<iostream>
+
+1520971658 e:\unifei\3semestre\orientada a objeto\lab02\poligono.h
+
+1520984434 source:e:\unifei\3semestre\orientada a objeto\lab02\poligono.cpp
+	"poligono.h"
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522533580 source:d:\unifei\3semestre\orientada a objeto\ex2\main.cpp
+	<iostream>
+	"longo.h"
+
+1522533580 d:\unifei\3semestre\orientada a objeto\ex2\longo.h
+
+1522533650 source:d:\unifei\3semestre\orientada a objeto\ex2\longo.cpp
+	"longo.h"
+	<iostream>
+

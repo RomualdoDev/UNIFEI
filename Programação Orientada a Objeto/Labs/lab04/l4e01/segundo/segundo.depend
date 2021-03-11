@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1523217828 source:e:\unifei\3semestre\orientada a objeto\segundo\main.cpp
+	<iostream>
+	"segundo.h"
+
+1523217798 e:\unifei\3semestre\orientada a objeto\segundo\segundo.h
+
+1523217888 source:e:\unifei\3semestre\orientada a objeto\segundo\segundo.cpp
+	<iostream>
+	"segundo.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1523225862 source:d:\unifei\3semestre\orientada a objeto\segundo\main.cpp
+	<iostream>
+	"segundo.h"
+	<stdlib.h>
+	<stdio.h>
+
+1523225288 d:\unifei\3semestre\orientada a objeto\segundo\segundo.h
+
+1523225312 source:d:\unifei\3semestre\orientada a objeto\segundo\segundo.cpp
+	<iostream>
+	"segundo.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+

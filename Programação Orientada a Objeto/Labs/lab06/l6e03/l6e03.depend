@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1524183192 source:e:\unifei\3semestre\orientada a objeto\l6e03\main.cpp
+	<iostream>
+	"cilindro.h"
+	"circulo.h"
+	"ponto.h"
+
+1524182524 e:\unifei\3semestre\orientada a objeto\l6e03\cilindro.h
+	<iostream>
+	"circulo.h"
+
+1524181562 e:\unifei\3semestre\orientada a objeto\l6e03\circulo.h
+	<iostream>
+	"ponto.h"
+
+1524182240 e:\unifei\3semestre\orientada a objeto\l6e03\ponto.h
+	<iostream>
+
+1524183082 source:e:\unifei\3semestre\orientada a objeto\l6e03\circulo.cpp
+	"circulo.h"
+	"ponto.h"
+	<iostream>
+
+1524183082 source:e:\unifei\3semestre\orientada a objeto\l6e03\cilindro.cpp
+	"cilindro.h"
+	"circulo.h"
+	"ponto.h"
+	<iostream>
+
+1524182602 source:e:\unifei\3semestre\orientada a objeto\l6e03\ponto.cpp
+	"ponto.h"
+	<iostream>
+

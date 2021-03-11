@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524058328 source:e:\unifei\3semestre\orientada a objeto\l6e04\phonenumber.cpp
+	<iomanip>
+	"PhoneNumber.h"
+
+1524057918 e:\unifei\3semestre\orientada a objeto\l6e04\phonenumber.h
+	<iostream>
+	<string>
+
+1524058166 source:e:\unifei\3semestre\orientada a objeto\l6e04\main.cpp
+	<iostream>
+	"PhoneNumber.h"
+

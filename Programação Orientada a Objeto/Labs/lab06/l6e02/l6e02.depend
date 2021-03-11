@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1524168112 source:e:\unifei\3semestre\orientada a objeto\l6e02\governador.cpp
+	"governador.h"
+	"presidente.h"
+	"politico.h"
+	<string.h>
+	<iostream>
+	<stdlib.h>
+
+1524168112 source:e:\unifei\3semestre\orientada a objeto\l6e02\prefeito.cpp
+	"prefeito.h"
+	"governador.h"
+	"presidente.h"
+	"politico.h"
+	<string.h>
+	<iostream>
+	<stdlib.h>
+
+1524168112 source:e:\unifei\3semestre\orientada a objeto\l6e02\presidente.cpp
+	"presidente.h"
+	"politico.h"
+	<string.h>
+	<iostream>
+	<stdlib.h>
+
+1524077778 source:e:\unifei\3semestre\orientada a objeto\l6e02\main.cpp
+	<iostream>
+	"politico.h"
+	"presidente.h"
+	"governador.h"
+	"prefeito.h"
+
+1524076540 e:\unifei\3semestre\orientada a objeto\l6e02\politico.h
+	<string>
+	<iostream>
+
+1524168120 source:e:\unifei\3semestre\orientada a objeto\l6e02\politico.cpp
+	"politico.h"
+	<string.h>
+
+1524077280 e:\unifei\3semestre\orientada a objeto\l6e02\presidente.h
+	"politico.h"
+	<string.h>
+
+1524167892 e:\unifei\3semestre\orientada a objeto\l6e02\governador.h
+	"politico.h"
+	"presidente.h"
+
+1524167892 e:\unifei\3semestre\orientada a objeto\l6e02\prefeito.h
+	"politico.h"
+	"presidente.h"
+	"governador.h"
+

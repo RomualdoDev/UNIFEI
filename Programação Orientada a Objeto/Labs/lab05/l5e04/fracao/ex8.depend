@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1523283666 source:e:\unifei\3semestre\orientada a objeto\ex8\main.cpp
+	<iostream>
+	"CFracao.h"
+
+1523283666 e:\unifei\3semestre\orientada a objeto\ex8\cfracao.h
+	<iostream>
+	<string.h>
+
+1523283666 source:e:\unifei\3semestre\orientada a objeto\ex8\cfracao.cpp
+	"CFracao.h"
+	<iostream>
+
+1523229874 source:d:\unifei\3semestre\orientada a objeto\ex8\main.cpp
+	<iostream>
+	"CFracao.h"
+
+1523234016 d:\unifei\3semestre\orientada a objeto\ex8\cfracao.h
+	<iostream>
+	<string.h>
+
+1523235276 source:d:\unifei\3semestre\orientada a objeto\ex8\cfracao.cpp
+	"CFracao.h"
+	<iostream>
+
+1523643752 source:e:\unifei\3semestre\orientada a objeto\l4e02\cfracao.cpp
+	"CFracao.h"
+	<iostream>
+
+1523643752 e:\unifei\3semestre\orientada a objeto\l4e02\cfracao.h
+	<iostream>
+	<string.h>
+
+1523643752 source:e:\unifei\3semestre\orientada a objeto\l4e02\main.cpp
+	<iostream>
+	"CFracao.h"
+
+1523829728 source:e:\unifei\3semestre\orientada a objeto\l5e04\fracao\cfracao.cpp
+	"CFracao.h"
+	<iostream>
+	"complexo.h"
+
+1523829716 e:\unifei\3semestre\orientada a objeto\l5e04\fracao\cfracao.h
+	<iostream>
+	<string.h>
+	"complexo.h"
+
+1523829300 e:\unifei\3semestre\orientada a objeto\l5e04\fracao\complexo.h
+	<iostream>
+
+1523828990 source:e:\unifei\3semestre\orientada a objeto\l5e04\fracao\main.cpp
+	<iostream>
+	"CFracao.h"
+
+1523829716 source:e:\unifei\3semestre\orientada a objeto\l5e04\fracao\complexo.cpp
+	"complexo.h"
+	"CFracao.h"
+	<iostream>
+	<cmath>
+

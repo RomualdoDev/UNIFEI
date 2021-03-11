@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1523315996 source:e:\unifei\3semestre\orientada a objeto\l4e04\main.cpp
+	<iostream>
+	"vetor.h"
+
+1523315596 e:\unifei\3semestre\orientada a objeto\l4e04\vetor.h
+	<iostream>
+	<stdlib.h>
+
+1523315596 source:e:\unifei\3semestre\orientada a objeto\l4e04\vetor.cpp
+	"vetor.h"
+	<iostream>
+
+1523405996 source:e:\unifei\3semestre\orientada a objeto\l4e04 - copia\main.cpp
+	<iostream>
+	"vetor.h"
+
+1523453652 e:\unifei\3semestre\orientada a objeto\l4e04 - copia\vetor.h
+	<iostream>
+	<stdlib.h>
+
+1523453670 source:e:\unifei\3semestre\orientada a objeto\l4e04 - copia\vetor.cpp
+	"vetor.h"
+	<iostream>
+
+1523560608 source:e:\unifei\3semestre\orientada a objeto\l5e01\main.cpp
+	<iostream>
+	"vetor.h"
+
+1523822370 e:\unifei\3semestre\orientada a objeto\l5e01\vetor.h
+	<iostream>
+	<stdlib.h>
+
+1523824026 source:e:\unifei\3semestre\orientada a objeto\l5e01\vetor.cpp
+	"vetor.h"
+	<iostream>
+
+1523831436 source:c:\users\user\desktop\l5e01\main.cpp
+	<iostream>
+	"vetor.h"
+
+1523822370 c:\users\user\desktop\l5e01\vetor.h
+	<iostream>
+	<stdlib.h>
+
+1523831354 source:c:\users\user\desktop\l5e01\vetor.cpp
+	"vetor.h"
+	<iostream>
+
+1523831436 source:c:\users\gabri\downloads\l5e01\l5e01\main.cpp
+	<iostream>
+	"vetor.h"
+
+1523822370 c:\users\gabri\downloads\l5e01\l5e01\vetor.h
+	<iostream>
+	<stdlib.h>
+
+1523831354 source:c:\users\gabri\downloads\l5e01\l5e01\vetor.cpp
+	"vetor.h"
+	<iostream>
+
